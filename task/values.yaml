@@ -1,0 +1,6 @@
+deployment:
+  appone:
+    name : app-one
+  
+  apptwo:
+    name: app-two
